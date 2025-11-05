@@ -56,9 +56,9 @@ Here are some of my hands-on cybersecurity projects:
 ---
 
 ## 📚 Certifications & Learning
-- 🎯 CompTIA Security+ *(in progress / earned)*  
+- 🎯 CompTIA Security+ *(in progress)*  
 - 🎯 CEH (Certified Ethical Hacker) *(planned)*  
-- 🎯 Google Cybersecurity Certificate *(in progress)*  
+- 🎯 Google Cybersecurity Certificate *(in progress / earned)*  
 
 ---
 
